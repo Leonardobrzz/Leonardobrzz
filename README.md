@@ -25,7 +25,8 @@
   <a href="https://wokwi.com/projects/422372086727932929">Simulação Wokwi</a> •
   <a href="https://projetoleobraz.netlify.app/">Vídeo/explicação</a>
 - **LESC (UFC) — Ciência de Dados em Saúde:** projeto anterior de análise de **doenças pulmonares em humanos** (classificação a partir de radiografias).  
-  *Obs.: não foi sobre “pulmões caninos”; foi focado em imagens médicas humanas.*
+
+  
 
 ---
 
