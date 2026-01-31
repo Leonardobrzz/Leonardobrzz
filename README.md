@@ -105,31 +105,28 @@ Atuo com **Web, Mobile, IoT e Data Science**, sempre buscando transformar ideias
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- GitHub Stats (MIRROR) -->
-  <img width="49%" height="195px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leonardobrzz&show_icons=true&hide_border=true&title_color=00CFE8&icon_color=00CFE8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
-
-  <!-- Top Langs (MIRROR) -->
-  <img width="49%" height="195px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leonardobrzz&layout=compact&hide_border=true&title_color=00CFE8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak (esse já está ok no seu print) -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Leonardobrzz&theme=dark&hide_border=true&ring=00CFE8&fire=00CFE8&currStreakLabel=00CFE8"
-  />
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Trophies (MIRROR/mais estável) -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Leonardobrzz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"
-  />
+  <img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Streak (esse está funcionando) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Leonardobrzz&theme=dark&hide_border=true&ring=00CFE8&fire=00CFE8&currStreakLabel=00CFE8" />
 </div>
 
 ---
