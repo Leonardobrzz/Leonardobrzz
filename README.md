@@ -111,18 +111,15 @@ Pipeline de classificação de radiografias com Machine Learning e Computer Visi
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardobrzz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardobrzz&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardobrzz&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leonardobrzz&show_icons=true&count_private=true&hide_border=true&title_color=00CFE8&icon_color=00CFE8&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardobrzz&layout=compact&hide_border=true&title_color=00CFE8&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonardobrzz&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardobrzz&theme=dark&hide_border=true&stroke=00CFE8&ring=00CFE8&fire=00CFE8&currStreakLabel=00CFE8" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
