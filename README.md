@@ -105,22 +105,31 @@ Atuo com **Web, Mobile, IoT e Data Science**, sempre buscando transformar ideias
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <!-- GitHub Stats (MIRROR) -->
   <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=Leonardobrzz&show_icons=true&count_private=true&hide_border=true&title_color=00CFE8&icon_color=00CFE8&text_color=c9d1d9&bg_color=0d1117"/>
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leonardobrzz&show_icons=true&hide_border=true&title_color=00CFE8&icon_color=00CFE8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
+
+  <!-- Top Langs (MIRROR) -->
   <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardobrzz&layout=compact&hide_border=true&title_color=00CFE8&text_color=c9d1d9&bg_color=0d1117"/>
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leonardobrzz&layout=compact&hide_border=true&title_color=00CFE8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Leonardobrzz&theme=dark&hide_border=true&ring=00CFE8&fire=00CFE8&currStreakLabel=00CFE8"/>
+  <!-- Streak (esse já está ok no seu print) -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Leonardobrzz&theme=dark&hide_border=true&ring=00CFE8&fire=00CFE8&currStreakLabel=00CFE8"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonardobrzz&theme=darkhub&no-frame=true&row=1&column=6"/>
+  <!-- Trophies (MIRROR/mais estável) -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Leonardobrzz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"
+  />
 </div>
 
 ---
