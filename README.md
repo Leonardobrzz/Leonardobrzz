@@ -20,10 +20,10 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardobrzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00CFE8&langs_count=8" />
 
-Sou **desenvolvedor full stack** de Fortaleza-CE, da **Engenharia da Computação da UFC**. Gosto de construir sistemas completos (banco, API, interface e deploy) e de
+Sou **desenvolvedor full stack** de Fortaleza-CE, formado em **Engenharia da Computação da UFC**. Gosto de construir sistemas completos (banco, API, interface e deploy) e de
 **medir** o que construo: desempenho, custo e qualidade.
 
-- 💼 **Dev Full Stack na Jota Barros Projetos**: criei e mantenho o **Sistema PAR**, app web em produção com Postgres (Neon) + Railway
+- 💼 **Dev Full Stack na Arraia Midas**: criei e mantenho o **Sistema PAR**, app web em produção com Postgres (Neon) + Railway
 - 🤖 Trabalhando com **IA aplicada**: agente que analisa a viabilidade de editais de licitação
 - 🚌 Desenvolvendo o **MobDigno**, SaaS B2G de mobilidade urbana acessível para prefeituras (tema do meu TCC)
 - 📊 Recentemente: benchmark de **busca vetorial no PostgreSQL** com projeto fatorial 2⁴ ([pgvector-bench](https://github.com/Leonardobrzz/pgvector-bench))
