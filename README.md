@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardobrzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00CFE8&langs_count=8" />
+<img align="right" width="340" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
 Sou **desenvolvedor full stack** de Fortaleza-CE, formado em **Engenharia da Computação da UFC**. Gosto de construir sistemas completos (banco, API, interface e deploy) e de
 **medir** o que construo: desempenho, custo e qualidade.
